@@ -1,4 +1,4 @@
-## Olá! Sou Everton Luiz 🙋🏻‍♂️
+ ## Olá! Sou Everton Luiz 🙋🏻‍♂️
 
 - 👨‍💻 Graduando em **Ciências de Dados pela faculdade Uninter**
 - 🗺️ Sou de São José dos Campos - SP, Brasil
