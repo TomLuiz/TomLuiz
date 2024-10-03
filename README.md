@@ -32,5 +32,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TomLuiz/TomLuiz/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TomLuiz/TomLuiz/output/github-contribution-grid-snake.svg">
 </picture>
-
-![Snake animation](https://github.com/TomLuiz/TomLuiz/blob/output/github-contribution-grid-snake.svg)
